@@ -1,4 +1,4 @@
-package com.example.bootcamptasarim.widgets
+package com.example.bootcamptasarim.ui.screens.widgets
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
